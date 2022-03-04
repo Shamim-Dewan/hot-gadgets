@@ -22,9 +22,14 @@ h4 a{
 }
 .buy-btn{
     background-color: black;
-    color: white;
+    color: wheat;
     text-decoration: none;
-    
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-size: 18px;
 }
 .card{
     border: none;
