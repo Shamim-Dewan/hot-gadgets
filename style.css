@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-img{
+    background-image: url(img/bg-2.png);
+    background-repeat: no-repeat;
+}
+.slide-button{
+    background-image: linear-gradient(180deg, orange,yellow);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+h4 a{
+    color: orange;
+    text-decoration: none;
+}
+.card-body{
+    text-align: center;
+}
+.buy-btn{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.container .line{
+    width: 100px;
+    height: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, orange , yellow);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.heading{
+    margin-top: 100px;
+}
+.category{
+   box-shadow: 10px 10px 20px lightgray;
+   text-align: center;
+}
+.cat{
+    margin-right: 50px;
+}
+.buy-now{
+    background-image: linear-gradient(90deg, rgb(121, 16, 240),rgb(32, 223, 150));
+    padding: 8px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: paleturquoise;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
